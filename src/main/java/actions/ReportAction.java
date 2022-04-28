@@ -13,6 +13,7 @@ import constants.ForwardConst;
 import constants.JpaConst;
 import constants.MessageConst;
 import services.ReportService;
+
 /**
  * 日報に関する処理を行うActionクラス
  *
